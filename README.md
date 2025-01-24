@@ -1,8 +1,8 @@
 # Python Notes
 
-![Header](https://github.com/void-inject/headers/raw/main/Python.jpeg)
- ![GitHub Created At](https://img.shields.io/github/created-at/void-inject/Python-Notes)
-![GitHub last commit](https://img.shields.io/github/last-commit/void-inject/Python-Notes)
+![Header](https://github.com/v0id-strike/headers/raw/main/Python.jpeg)
+ ![GitHub Created At](https://img.shields.io/github/created-at/v0id-strike/Python-Notes)
+![GitHub last commit](https://img.shields.io/github/last-commit/v0id-strike/Python-Notes)
 
 
 ## Overview
@@ -26,7 +26,7 @@ This repository contains my **notes** as I explore and learn _Python_ scripting.
 To get started with this repository locally, clone it using the following command:
 
 ```bash
-git clone https://github.com/void-inject/Python-Notes.git
+git clone https://github.com/v0id-strike/Python-Notes.git
 ```
 
 Navigate to the repository folder:
@@ -40,9 +40,3 @@ I recommend using [Obsidian](https://www.obsidian.md) Or any other text editor t
 ---
 ## Notes
 - [.......](...)
----
-
-## Used Resources
-
-- **Under Development**  
-    A detailed list of references and learning materials will be included as the repository grows.
